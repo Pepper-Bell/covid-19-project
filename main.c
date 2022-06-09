@@ -7,7 +7,10 @@
 */
 
 #include <stdio.h>
+#include "cure.h"
+#include <string.h>
 
 int main(void){
+  find();
   return 0;
 }
