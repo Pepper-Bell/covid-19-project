@@ -13,7 +13,7 @@
 struct userinfo{
 	char name[100];
 	char address[100];
-  int ch;
+	int ch;
 };
 
 int main(void){
