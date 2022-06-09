@@ -7,7 +7,7 @@
 */
 
 #include <stdio.h>
-#include "cure.h"
+#include "symptom.h"
 #include <string.h>
 
 struct userinfo{
