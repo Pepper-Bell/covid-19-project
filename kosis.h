@@ -1,4 +1,4 @@
 #include<stdio.h>
-void nation(int a); //ÇÔ¼ö ¼±¾ð
+void nation(int a); //nationí•¨ìˆ˜ ì„ ì–¸
 #define FNUM 0
 #define SNUM 1
