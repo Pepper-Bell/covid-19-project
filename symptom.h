@@ -1,2 +1,2 @@
 #include<stdio.h>
-void find();
+void find();  //find함수 선언
